@@ -1,0 +1,42 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold; 
+    color: khaki;
+    text-align: center;
+    margin: 0px auto;
+    width: auto;
+    padding-bottom: 30px;
+    background-image: url('C:/Projects/Dasmotos-arts-and-crafts/Resources/Images/pattern.jpeg');
+ 
+}
+
+#brush {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#frame {
+    background-color: lightcoral;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    font-family: Helvetica;
+}
+
+#paint {
+    background-color: skyblue;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Helvetica;
+}
